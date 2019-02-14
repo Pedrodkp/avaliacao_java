@@ -16,7 +16,7 @@ Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quise
 Implemente um programa para calcular a soma, subtração, divisão e multiplicação de 2 números e exiba para o usuário os resultados.
 
 ### Palíndromo (Usando apenas IF, ELSE, WHILE)
-Dizemos que um número natural n é palíndromo (3) se o 1º algarismo de n é igual ao seu último algarismo, o 2º algarismo de n é igual ao penúltimo algarismo, e assim sucessivamente.
+Dizemos que um número natural n é palíndromo se o 1º algarismo de n é igual ao seu último algarismo, o 2º algarismo de n é igual ao penúltimo algarismo, e assim sucessivamente.
 
 Exemplos:
 
@@ -34,7 +34,7 @@ Faça um Programa para uma loja de tintas. Usando apenas IF e ELSE.
 
 O programa deverá pedir o tamanho em metros quadrados da área a ser pintada.
 
-Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em galões de 4 litros, que custam R$ 25,00.
+Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros que custam R$ 80,00 ou em galões de 4 litros que custam R$ 25,00.
 
 Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
 
@@ -44,7 +44,7 @@ Informe ao usuário as quantidades de tinta a serem compradas e os respectivos p
 
 - misturar latas e galões, de forma que o preço seja o menor.
 
-Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
+Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas e galões cheios.
 
 ### Caixa Eletrônico
 Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário o valor do saque e depois informar quantas notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais.
@@ -69,7 +69,7 @@ e i k r
 
 o u f j 
 
-E existe só um quadrado 2x2 formando somente por vogais:
+E existe só um quadrado 2x2 formado somente por vogais:
 
 e i
 
